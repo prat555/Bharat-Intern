@@ -1,2 +1,2 @@
 # Bharat-Intern
-I have done 2 tasks for my full stack development internship job.
+I've successfully completed two tasks as part of my full-stack development internship at Bharat Intern.
